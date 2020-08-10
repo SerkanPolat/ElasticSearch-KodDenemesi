@@ -1,0 +1,490 @@
+Bahçe Bitkileri
+Bitki Koruma
+Bitkisel Üretim
+Bitkisel Üretim Ve Teknolojileri
+Hayvansal Üretim
+Organik Tarım İşletmeciliği
+Orman Endüstrisi Mühendisliği
+Orman Mühendisliği
+Performans
+Süt Teknolojisi
+Tarım Ekonomisi
+Tarım Makineleri
+Tarım Teknolojisi
+Tarımsal Biyoteknoloji
+Tarımsal Genetik Mühendisliği
+Tarımsal Yapılar Ve Sulama
+Tarla Bitkileri
+Toprak
+Toprak Bilimi Ve Bitki Besleme
+Tütün Eksperliği Yüksekokulu
+Yaban Hayatı Ekolojisi Ve Yönetimi
+Zeotekni
+Ziraat Mühendisliği
+Alman Dili Ve Edebiyatı
+Amerikan Kültürü Ve Edebiyatı
+Arap Dili Ve Edebiyatı
+Arnavut Dili Ve Edebiyatı
+Azerbaycan Türkçesi Ve Edebiyatı
+Boşnak Dili Ve Edebiyatı
+Bulgar Dili Ve Edebiyatı
+Çağdaş Türk Lehçeleri Ve Edebiyatları
+Çağdaş Yunan Dili Ve Edebiyatı
+Çerkez Dili Ve Edebiyatı
+Çeviribilim Almanca
+Çeviribilim İngilizce
+Çin Dili Ve Edebiyatı
+Dilbilim
+Ermeni Dili Ve Edebiyatı
+Eski Yunan Dili Ve Edebiyatı
+Fars Dili Ve Edebiyatı
+Fransız Dili Ve Edebiyatı
+Gürcü Dili Ve Edebiyatı
+Hırvat Dili Ve Edebiyatı
+Hindoloji
+Hititoloji
+Hungaroloji
+İbrani Dili Ve Edebiyatı
+İngiliz Dil Bilimi
+İngiliz Dili Ve Edebiyatı
+İngiliz Dili Ve Karşılaştırmalı Edebiyat
+İspanyol Dili Ve Edebiyatı
+İtalyan Dili Ve Edebiyatı
+Japon Dili Ve Edebiyatı
+Karşılaştırmalı Edebiyat
+Kore Dili Ve Edebiyatı
+Koreoloji
+Kürt Dili Ve Edebiyatı
+Latin Dili Ve Edebiyatı
+Leh Dili Ve Edebiyatı
+Mütercim-Tercümanlık Fransızca
+Mütercim-Tercümanlık Almanca
+Mütercim-Tercümanlık Arapça
+Mütercim-Tercümanlık Bulgarca
+Mütercim-Tercümanlık Çince
+Mütercim-Tercümanlık Farsça
+Mütercim-Tercümanlık Fransızca
+Mütercim-Tercümanlık İngilizce
+Mütercim-Tercümanlık Rusça
+Polonya Dili Ve Kültürü Lehçe
+Rus Dili Ve Edebiyatı
+Sinoloji
+Sümeroloji
+Urdu Dili Ve Edebiyatı
+Yunan Dili Ve Edebiyatı
+Zaza Dili Ve Edebiyatı
+Ulaştırma Ve Lojistik
+Uluslararası Finans
+Uluslararası Finans Ve Bankacılık
+Uluslararası Girişimcilik
+Uluslararası İşletme Yönetimi
+Uluslararası İşletmecilik
+Uluslararası Lojistik
+Uluslararası Lojistik Ve Taşımacılık
+Uluslararası Lojistik Yönetimi
+Uluslararası Ticaret
+Uluslararası Ticaret Ve Finans
+Uluslararası Ticaret Ve Finansman
+Uluslararası Ticaret Ve İşletmecilik
+Uluslararası Ticaret Ve Lojistik
+Uluslararası Ticaret Ve Lojistik Yönetimi
+Uluslararası Ticaret Ve Pazarlama
+Uluslararası Ticaret, Lojistik Ve İşletmecilik
+Ağaç İşleri Endüstri Mühendisliği
+Aile Ve Tüketici Bilimleri
+Basım Teknolojileri
+Besin Teknolojisi
+Bilgi Ve Belge Yönetimi
+Bilgisayar Bilimleri
+Bilgisayar Teknolojisi Ve Bilişim Sistemleri
+Bilişim Sistemleri Ve Teknolojileri
+Denizcilik İşletmeleri Yönetimi
+Enformasyon Teknolojileri
+Ev Ekonomisi
+Gayrimenkul Ve Varlık Değerleme
+Gıda Teknolojisi
+Girişimcilik
+Gümrük İşletme
+Hava Trafik Kontrol
+Havacılık Elektrik Ve Elektroniği
+Havacılık İşletmeciliği
+Havacılık Yönetimi
+İnsan Kaynakları Yönetimi
+İş Sağlığı Ve Güvenliği
+İşletme Bilgi Yönetimi
+İşletme Enformatiği
+İşletme Yönetimi
+Kütüphanecilik
+Lojistik
+Lojistik Yönetimi
+Muhasebe
+Muhasebe Bilgi Sistemleri
+Muhasebe Ve Denetim
+Muhasebe Ve Finansal Yönetim
+Mutfak Sanatları Ve Yönetimi
+Pazarlama
+Sivil Hava Ulaştırma İşletmeciliği
+Sivil Havacılık İşletmeciliği
+Tapu Kadastro
+Teknoloji Ve Bilgi Yönetimi
+Tekstil Geliştirme Ve Pazarlama
+Uçak Elektrik-Elektronik
+Uçak Gövde-Motor
+Uçak Gövde-Motor Bakımı
+Yönetim Bilimleri
+Yönetim Bilişim Sistemleri
+Aile Ekonomisi Ve Beslenme Öğretmenliği
+Aile Ve Tüketici Bilimleri Öğretmenliği
+Almanca Öğretmenliği
+Arapça Öğretmenliği
+Beden Eğitimi Ve Spor Öğretmenliği
+Bilgisayar Öğretmenliği
+Bilgisayar Sistemleri Öğretmenliği
+Bilgisayar Ve Kontrol Öğretmenliği
+Bilgisayar Ve Öğretim Teknolojileri Öğretmenliği
+Biyoloji Öğretmenliği
+Büro Yönetimi Öğretmenliği
+Coğrafya Öğretmenliği
+Çiçek, Örgü Ve Dokuma Öğretmenliği
+Çocuk Gelişimi Ve Okul Öncesi Öğretmenliği
+Dekoratif Sanatlar Öğretmenliği
+Din Kültürü Ve Ahlak Bilgisi Öğretmenliği
+Döküm Öğretmenliği
+Elektrik Öğretmenliği
+Elektronik Öğretmenliği
+Elektronik Ve Bilgisayar Öğretmenliği
+Elektronik Ve Haberleşme Öğretmenliği
+Endüstriyel Teknoloji Öğretmenliği
+Enerji Öğretmenliği
+Engellilerde Beden Eğitimi Ve Spor Öğretmenliği
+Felsefe Grubu Öğretmenliği
+Fen Bilgisi Öğretmenliği
+Fizik Öğretmenliği
+Fransızca Öğretmenliği
+Giyim Endüstrisi Öğretmenliği
+Giyim Öğretmenliği
+Görme Engelliler Öğretmenliği
+Grafik Öğretmenliği
+Hazır Giyim Öğretmenliği
+İlköğretim Din Kültürü Ve Ahlak Bilgisi Öğretmenliği
+İlköğretim Matematik Öğretmenliği
+İngilizce Öğretmenliği
+İngilizce Öğretmenliği Öğretimi
+İşitme Engelliler Öğretmenliği
+İşletme Öğretmenliği
+Japonca Öğretmenliği
+Kalıpçılık Öğretmenliği
+Kimya Öğretmenliği
+Konaklama İşletmeciliği Eğitimi
+Konaklama İşletmeciliği Öğretmenliği
+Kontrol Öğretmenliği
+Kuaförlük Ve Güzellik Bilgisi Öğretmenliği
+Makine Resim Ve Konstrüksiyonu Öğretmenliği
+Matbaa Öğretmenliği
+Matematik Öğretmenliği
+Mekatronik Öğretmenliği
+Mesleki Resim Öğretmenliği
+Metal Öğretmenliği
+Mobilya Ve Dekorasyon Öğretmenliği
+Moda Tasarımı Öğretmenliği
+Muhasebe Ve Finansman Öğretmenliği
+Müzik Öğretmenliği
+Nakış Öğretmenliği
+Okul Öncesi Öğretmenliği
+Otomotiv Öğretmenliği
+Özel Eğitim Öğretmenliği
+Pazarlama Öğretmenliği
+Resim-İş Eğitimi
+Resim-İş Öğretmenliği
+Sağlık Eğitimi
+Seramik Öğretmenliği
+Seyahat İşletmeciliği Ve Turizm Rehberliği Eğitimi
+Seyahat İşletmeciliği Ve Turizm Rehberliği Öğretmenliği
+Sınıf Öğretmenliği
+Sosyal Bilgiler Öğretmenliği
+Talaşlı Üretim Öğretmenliği
+Tarih Öğretmenliği
+Tasarım Ve Konstrüksiyon Öğretmenliği
+Tekstil Dokuma Ve Örgü Öğretmenliği
+Tekstil Öğretmenliği
+Tekstil Terbiye Öğretmenliği
+Telekomünikasyon Öğretmenliği
+Tesisat Öğretmenliği
+Türk Dili Ve Edebiyatı Öğretmenliği
+Türkçe Öğretmenliği
+Türkçe Öğretmenliği Öğretim
+Üstün Zekâlılar Öğretmenliği
+Yapı Öğretmenliği
+Yapı Ressamlığı Öğretmenliği
+Yapı Tasarımı Öğretmenliği
+Zihin Engelliler Öğretmenliği
+Arp
+Bale
+Bale Dansçılığı
+Bando Şefliği
+Caz
+Çalgı
+Çalgı Eğitimi
+Çalgı Yapım
+Dans
+Drama Ve Oyunculuk
+Fagot
+Flüt
+Geleneksel Türk Müzikleri
+Genel Müzikoloji
+Gitar
+Keman
+Klarnet
+Klasik Bale
+Kompozisyon
+Kompozisyon Bestecilik
+Kompozisyon Ve Orkestra Şefliği
+Kontrabas
+Korno
+Koro
+Modern Dans
+Müzik
+Müzik Bilimleri
+Müzik Teknolosi
+Müzik Teorisi
+Müzik Toplulukları
+Müzikoloji
+Nefesli Çalgılar Ve Vurmalı Çalgılar
+Obua
+Opera
+Opera Şarkıcılığı
+Opera Ve Konser Şarkıcılığı
+Osmanlı Dönemi Karşılaştırmalı Müzik
+Oyunculuk
+Piyano
+Piyano Onarımı Yapımı
+Piyano-Arp-Gitar
+Popüler Müzik Şarkıcılığı
+Sahne Sanatları
+Ses Eğitimi
+Şan
+Temel Bilimler
+Teori
+Tiyatro
+Tiyatro Eleştirmenliği Ve Dramaturji
+Trombon
+Trompet
+Tuba
+Türk Din Musikisi
+Türk Halk Müziği
+Türk Halk Müziği Çalgı Eğitimi
+Türk Halk Müziği Ses Eğitimi
+Türk Halk Oyunları
+Türk Musikisi
+Türk Musikisi Temel Bilimler
+Türk Müziği
+Türk Sanat Müziği
+Türk Sanat Müziği Ses Eğitimi
+Türk Sanat Müziği Temel Bilimler
+Üflemeli Ve Vurmalı Çalgılar
+Viyola
+Viyolonsel
+Vurmalı Çalgılar
+Yaylı Çalgılar
+Yaylı Çalgılar Yapımı
+Aksesuar Tasarımı
+Baskı Sanatları
+Bileşik Sanatlar
+Cam
+Canlandırma Filmi Tasarım Ve Yönetimi
+Çini
+Çini Tasarımı
+Çizgi Film Ve Animasyon
+Dramatik Yazarlık
+Dramatik Yazarlık-Dramaturji
+Duysal (Ses) Sanatları Tasarımı
+El Sanatları
+El Sanatları Tasarımı Ve Üretimi
+Eski Çini Onarımları
+Film Tasarım Ve Yazarlık
+Film Tasarım Ve Yönetmenliği
+Film Tasarımı
+Fotoğraf
+Fotoğraf Ve Grafik Sanatlar
+Fotoğraf Ve Video
+Geleneksel Türk El Sanatları
+Geleneksel Türk Sanatları
+Görsel İletişim
+Görsel İletişim Tasarımı
+Görsel Sanatlar
+Görsel Sanatlar Ve Görsel İletişim Tasarımı
+Görüntü Sanatları
+Grafik
+Grafik Resimleme Ve Baskı
+Grafik Sanatları
+Grafik Tasarım
+Halı Kilim
+Halı, Kilim Ve Eski Kumaş Desenleri
+Hat
+Heykel
+İletişim Sanatları
+İletişim Tasarımı Ve Yönetimi
+İletişim Ve Tasarım
+Kurgu-Ses Ve Görüntü Yönetimi
+Kuyumculuk
+Kuyumculuk Ve Mücevher Tasarımı
+Medya Ve Görsel Sanatlar
+Moda Giyim Tasarımı
+Moda Tasarımı
+Moda Ve Tekstil Tasarımı
+Plastik Sanatlar
+Plastik Sanatlar Ve Resim
+Resim
+Resim-Baskı Sanatları
+Sahne Dekorları Ve Kostümü
+Sahne Tasarımı
+Sahne Ve Gösteri Sanatları Yönetimi
+Sanat (Tasarım) Yönetimi
+Sanat Eserleri Konservasyonu Ve Restorasyonu
+Sanat Tasarımı
+Sanat Ve Kültür Yönetimi
+Sanat Ve Tasarım
+Sanat Yönetimi
+Seramik
+Seramik Sanatları
+Seramik Ve Cam
+Seramik Ve Cam Tasarımı
+Takı Tasarımı
+Takı Teknolojisi Ve Tasarımı
+Tekstil
+Tekstil Tasarım
+Tekstil Tasarımı Ve Üretimi
+Tekstil Ve Deri Moda Tasarımı
+Tekstil Ve Moda Tasarımı
+Tezhip
+Adli Bilişim Mühendisliği
+Bilgisayar Bilimi Ve Mühendisliği
+Bilgisayar Mühendisliği
+Bilgisayar Ve Yazılım Mühendisliği
+Bilişim Sistemleri Mühendisliği
+Yazılım Mühendisliği
+Havacılık Ve Uzay Mühendisliği
+Meteoroloji Mühendisliği
+Uçak Mühendisliği
+Uzay Mühendisliği
+Bahçe Bitkileri
+Bitki Koruma
+Bitkisel Üretim
+Bitkisel Üretim Ve Teknolojileri
+Hayvansal Üretim
+Organik Tarım İşletmeciliği
+Orman Endüstrisi Mühendisliği
+Orman Mühendisliği
+Performans
+Süt Teknolojisi
+Tarım Ekonomisi
+Tarım Makineleri
+Tarım Teknolojisi
+Tarımsal Biyoteknoloji
+Tarımsal Genetik Mühendisliği
+Tarımsal Yapılar Ve Sulama
+Tarla Bitkileri
+Toprak
+Toprak Bilimi Ve Bitki Besleme
+Tütün Eksperliği Yüksekokulu
+Yaban Hayatı Ekolojisi Ve Yönetimi
+Zeotekni
+Ziraat Mühendisliği
+Zootekni
+Ulaştırma Ve Lojistik
+Uluslararası Finans
+Uluslararası Finans Ve Bankacılık
+Uluslararası Girişimcilik
+Uluslararası İşletme Yönetimi
+Uluslararası İşletmecilik
+Uluslararası Lojistik
+Uluslararası Lojistik Ve Taşımacılık
+Uluslararası Lojistik Yönetimi
+Uluslararası Ticaret
+Uluslararası Ticaret Ve Finans
+Uluslararası Ticaret Ve Finansman
+Uluslararası Ticaret Ve İşletmecilik
+Uluslararası Ticaret Ve Lojistik
+Uluslararası Ticaret Ve Lojistik Yönetimi
+Uluslararası Ticaret Ve Pazarlama
+Uluslararası Ticaret, Lojistik Ve İşletmecilik
+İnsan Ve Toplum Bilimleri
+Kültürel Çalışmalar
+Sosyoloji
+Antrenörlük Eğitimi
+Rekreasyon
+Rekreasyon Yönetimi
+Spor Bilimleri
+Spor Yöneticiliği
+Enerji Sistemleri Mühendisliği
+Nükleer Enerji Mühendisliği
+Petrol Ve Doğalgaz Mühendisliği
+Arp
+Bale
+Bale Dansçılığı
+Bando Şefliği
+Caz
+Çalgı
+Çalgı Eğitimi
+Çalgı Yapım
+Dans
+Drama Ve Oyunculuk
+Fagot
+Flüt
+Geleneksel Türk Müzikleri
+Genel Müzikoloji
+Gitar
+Keman
+Klarnet
+Klasik Bale
+Kompozisyon
+Kompozisyon(Bestecilik)
+Kompozisyon Ve Orkestra Şefliği
+Kontrabas
+Korno
+Koro
+Modern Dans
+Müzik
+Müzik Bilimleri
+Müzik Teknolosi
+Müzik Teorisi
+Müzik Toplulukları
+Müzikoloji
+Nefesli Çalgılar Ve Vurmalı Çalgılar
+Obua
+Opera
+Opera Şarkıcılığı
+Opera Ve Konser Şarkıcılığı
+Osmanlı Dönemi Karşılaştırmalı Müzik
+Oyunculuk
+Piyano
+Piyano Onarımı Yapımı
+Piyano-Arp-Gitar
+Popüler Müzik Şarkıcılığı
+Sahne Sanatları
+Ses Eğitimi
+Şan
+Temel Bilimler
+Teori
+Tiyatro
+Tiyatro Eleştirmenliği Ve Dramaturji
+Trombon
+Trompet
+Tuba
+Türk Din Musikisi
+Türk Halk Müziği
+Türk Halk Müziği Çalgı Eğitimi
+Türk Halk Müziği Ses Eğitimi
+Türk Halk Oyunları
+Türk Musikisi
+Türk Musikisi Temel Bilimler
+Türk Müziği
+Türk Sanat Müziği
+Türk Sanat Müziği Ses Eğitimi
+Türk Sanat Müziği Temel Bilimler
+Üflemeli Ve Vurmalı Çalgılar
+Viyola
+Viyolonsel
+Vurmalı Çalgılar
+Yaylı Çalgılar
+Yaylı Çalgılar Yapımı
